@@ -1,7 +1,11 @@
 {
   "name": "barber-jb",
   "version": "0.0.0",
+  "main": "server.js",
   "license": "MIT",
+  "engines": {
+    "node": "6.11.0"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
